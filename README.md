@@ -12,9 +12,9 @@
 
 Software :
 
-* [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code on the Browser
+* [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the NN Code on the Browser
 * [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
-* [Keras](https://keras.io/) - Used for Making of the CNN Model
+* [Keras](https://keras.io/) - Used for Making of the NN Model
 * [Matplotlib](https://matplotlib.org/) - Used for the Data Visualization 
 * [Numpy](https://numpy.org/) - Used for Manipulating the Array 
 * [OpenCV](https://opencv.org/) - Used for the Image Processing 
