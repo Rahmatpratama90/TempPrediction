@@ -1,7 +1,7 @@
 # Temperature Prediction 
 
 <p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/47783115/155862878-5c9ca177-9854-49e0-ae4c-7639134d790f.png">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/47783115/155862878-5c9ca177-9854-49e0-ae4c-7639134d790f.png">
 </p>
 
 # I. Getting Started
